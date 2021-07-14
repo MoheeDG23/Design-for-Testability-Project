@@ -24,3 +24,4 @@ An Example:
 
 Find more about Time Frame Expansion in the paper provided in the repo. Happy Learning!!
 
+PS: The cpp files contain the code for the D-Algorithm for combinational circuits. The Jupyter Notebook contains the examples for Time Frame expansion written in Python. 
